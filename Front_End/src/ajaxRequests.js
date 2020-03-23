@@ -1,5 +1,5 @@
 //ajaxRequests.js
-//Authors: Luc Nglankong, Cameron Fitzpatrick, Jiahui Dai
+//Authors: Cameron Fitzpatrick, Luc Nglankong, Jiahui Dai
 
 import React, { useEffect, useState } from "react";
 
