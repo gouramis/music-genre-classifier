@@ -1,5 +1,5 @@
 //index.jsx
-//Authors: Luc Nglankong, Cameron Fitzpatrick
+//Authors: Cameron Fitzpatrick and Luc Nglankong
 
 import * as ajaxRequests from './ajaxRequests.js'
 import React from 'react';
